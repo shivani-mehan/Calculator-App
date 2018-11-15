@@ -1,3 +1,3 @@
 # Calculator-App
 Simple calculator application implemented in Java
-![alt text](https://previews.dropbox.com/p/thumb/AAMMBXEVfvnNrCsPHpTXugkHFIZyVZyc01cjRk2qnuCiA4QeWrI8NozL_UE0XYOw4nyu-sZ5iVaGoBBjR2VK66FWdeHK4btCKqKzevTnPP26ryGqGE3Zv0hfsFTslI16oT9BL9lzhdqVVGptTmB1dMAZRPHJwlIwz4_sXEmVABdChg/p.png?size=1280x960&size_mode=3)
+
